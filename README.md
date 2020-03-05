@@ -2,6 +2,14 @@
 
 A basic clone of the popular tech news feed using NextJS, React, and TypeScript.
 
+## Features
+
+Pretty basic, as I've lost count of how many HackerNews clones I've made so far.
+
+- View top 500 articles (metered with a Read More btn to not overload your browser)
+- View article comments
+- View nested comments
+
 ## Run
 
 Run in dev:
